@@ -1,0 +1,23 @@
+.active {
+    background-color: #5f2cf6;
+    border-radius: 13px;
+    color: white;
+
+    /* box-shadow: 0px 0px 3px 0px black; */
+}
+
+.LNHover>i {
+    transition: all 0.6s;
+    /* font-weight: bold; */
+}
+
+.LNHover:hover,
+.letter:hover {
+    color: #5f2cf6 !important;
+
+}
+
+/* .LNHover:hover>p {
+    color: #5f2cf6 !important;
+    font-weight: bold;
+} */
